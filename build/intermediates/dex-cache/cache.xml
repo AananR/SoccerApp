@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/d7baf5d1c0470a3ac25d5c4006b42f220ecd46e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d0329ee84a9bc80e4d8102d67947f41fd37b258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/Desktop/Lab5/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fea3c671a63661f87229237330dacabc1df9bab7">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fcb90acba4e0d4fc0dea59aa7791583930c0178a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/Desktop/Lab5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d3bd722ffb1bcbe495070c040e6c27e8d5d67d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/0e1d619948ca3316b8c0c407164b75f2cdb69baa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1d999a583791d3ca7ac8296994ac3525bc2e48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/f39e48ca7aea24ee451646b45cf4c62776005da8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4440e50fa6264fa7c82e58297c1fbb7c66f5123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/1a518898e9ba1b016b4776984de2b11de673eff6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb4cfdddfab7c47464d1db4ffd8fcdd60a1fa74b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/af2d7ac21893f58628884ae0f297a129df6f3063/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e15aec8b6f5f2dc0f035de56e4384e0398badd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/13c07fa003a5ad98a52e7575e1954aa0f47a9c33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b2eead40e1932c9dadd17c502da57f8fe75327f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/bc7157e70b070a22bed15f79fdb7a67d17ff71ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75705deff38f9cfed34a371898b99f2027e9a754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AananR/.android/build-cache/a3e43b96c7e0e9b21f9d4580074844dd01396bef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/AananR/Desktop/Lab5/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_158f36f84f8d95491bd0fb071f6fbafdfbca5db1/classes.dex" />
+    </item>
+
+</items>
